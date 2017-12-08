@@ -1,0 +1,27 @@
+{
+  "name": "ssh2-shell-server-examples",
+  "version": "0.0.1",
+  "description": "Examples using ssh2-shell-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kstafford3/ssh2-shell-server.git"
+  },
+  "author": "kstafford3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kstafford3/ssh2-shell-server-examples/issues"
+  },
+  "homepage": "https://github.com/kstafford3/ssh2-shell-server-examples#readme",
+  "dependencies": {
+    "ssh2-shell-server": "^2.0.0"
+  },
+  "devDependencies": {
+    "buffer-equal-constant-time": "^1.0.1",
+    "eslint": "^4.12.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
