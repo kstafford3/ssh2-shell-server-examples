@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/kstafford3/ssh2-shell-server-examples#readme",
   "dependencies": {
-    "ssh2-shell-server": "^2.2.1"
+    "ssh2-shell-server": "^2.2.3"
   },
   "devDependencies": {
     "buffer-equal-constant-time": "^1.0.1",
